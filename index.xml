@@ -6,7 +6,16 @@
     <description>Recent content on Fireflies platform development docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 13:45:55 +1000</lastBuildDate><atom:link href="http://Study-Abroad-App.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 16:21:30 +1100</lastBuildDate><atom:link href="http://Study-Abroad-App.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update 13 Oct 21</title>
+      <link>http://Study-Abroad-App.github.io/posts/update-13-oct-21/</link>
+      <pubDate>Wed, 13 Oct 2021 16:21:30 +1100</pubDate>
+      
+      <guid>http://Study-Abroad-App.github.io/posts/update-13-oct-21/</guid>
+      <description>Update 13 Oct Summary  Functional testing of mentor registration complete Showcase of mentor/user registration will be done this weekend Mentor listing and profile are functional  Current features in dev  Chatroom request in dev Community section planning for frontend Server security and database maintenance  Notes  Need to create more BE requirements Need more hands on FE tasks (esp design) Look into handling user-uploaded files &amp;amp; images  Written by Ha Nguyen, 13 Oct</description>
+    </item>
+    
     <item>
       <title>Update 29 Aug 21</title>
       <link>http://Study-Abroad-App.github.io/posts/update-29-aug-21/</link>
